@@ -1,0 +1,1 @@
+It's a sand watch. A simple animation program in C graphics.
